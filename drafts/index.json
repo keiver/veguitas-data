@@ -17,8 +17,40 @@
     "status": "draft",
     "categorySlug": "home-kitchen",
     "productCount": 3,
-    "currentVersion": 0,
+    "currentVersion": 1,
     "createdAt": "2026-01-09T20:26:58.594Z",
-    "updatedAt": "2026-01-09T20:27:21.585Z"
+    "updatedAt": "2026-01-09T20:37:17.563Z",
+    "scrapedProducts": [
+      {
+        "asin": "B01KKNFTPC",
+        "title": "ZOBER 9 Ft Large Christmas Tree Storage Bag - Fits 9 Ft Artificial Trees - Plastic, Waterproof Christmas Tree Bag For Storage Box For Xmas - Strong, Durable Handles - Label Card Slot - Red",
+        "price": "$9.99",
+        "rating": 4.5,
+        "reviewCount": 84955,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81om0NhnyEL._AC_UL600_SR600,400_.jpg",
+        "affiliateUrl": "https://www.amazon.com/dp/B01KKNFTPC?tag=veguitas-20",
+        "rank": 1
+      },
+      {
+        "asin": "B0BZYCJK89",
+        "title": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Denim",
+        "price": "$29.99",
+        "rating": 4.7,
+        "reviewCount": 103809,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61sS-XIvEXL._AC_UL600_SR600,400_.jpg",
+        "affiliateUrl": "https://www.amazon.com/dp/B0BZYCJK89?tag=veguitas-20",
+        "rank": 2
+      },
+      {
+        "asin": "B01M16WBW1",
+        "title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel Luxury Bedding for Women, Men, Kids, Teens, Boys & Girls - Deep Pockets, Ultra-Soft, Wrinkle Free - Oeko-Tex - White",
+        "price": "$24.99",
+        "rating": 4.5,
+        "reviewCount": 419483,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61pOaiLFYPL._AC_UL300_SR300,200_.jpg",
+        "affiliateUrl": "https://www.amazon.com/dp/B01M16WBW1?tag=veguitas-20",
+        "rank": 3
+      }
+    ]
   }
 ]
