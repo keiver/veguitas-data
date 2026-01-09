@@ -50,8 +50,70 @@
     "status": "published",
     "categorySlug": "solar-panels",
     "productCount": 5,
-    "currentVersion": 3,
+    "currentVersion": 4,
     "createdAt": "2026-01-09T21:09:59.533Z",
-    "updatedAt": "2026-01-09T22:07:31.924Z"
+    "updatedAt": "2026-01-09T22:27:31.998Z",
+    "scrapedProducts": [
+      {
+        "asin": "B0CYH13JJK",
+        "title": "ECO-WORTHY 400W Solar Panels 4pcs 100 Watt 18V Monocrystalline Solar Panel Module for Off Grid PV Power for Home, Camping, Boat, Shed Farm, RV,12V Battery,2-Pack 2 * 100W",
+        "price": "$176.40",
+        "rating": 4.5,
+        "reviewCount": 455,
+        "imageUrl": "https://m.media-amazon.com/images/I/71Y2w0CVuKL._AC_UY218_.jpg",
+        "affiliateUrl": "https://www.amazon.com/dp/B0CYH13JJK?tag=veguitas-20",
+        "rank": 1,
+        "selected": true,
+        "featured": true
+      },
+      {
+        "asin": "B0DSHQM3SM",
+        "title": "200 Watt Solar Panel 18BB, 25% High Efficiency, N-Type 12V 200W Solar Panel, Monocrystalline PV Modules, for Rooftop, RV, Farm, Trailer, Marine, Home Off-Grid System",
+        "price": "$139.99",
+        "rating": 4.3,
+        "reviewCount": 435,
+        "imageUrl": "https://m.media-amazon.com/images/I/71GE8VBjpeL._AC_UY218_.jpg",
+        "affiliateUrl": "https://www.amazon.com/dp/B0DSHQM3SM?tag=veguitas-20",
+        "rank": 2,
+        "selected": true,
+        "featured": true
+      },
+      {
+        "asin": "B0FXX2X16M",
+        "title": "3W Solar Panel for Battery-Powered Security Cameras,USB-C & Micro USB Solar Charger for Wireless Outdoor Cameras,IP65 Waterproof, 9.8ft Cable, 360° Adjustable Mount (White, 2 Pack)",
+        "price": "$23.99",
+        "rating": 0,
+        "reviewCount": 0,
+        "imageUrl": "https://m.media-amazon.com/images/I/81Ox19589OL._AC_UY218_.jpg",
+        "affiliateUrl": "https://www.amazon.com/dp/B0FXX2X16M?tag=veguitas-20",
+        "rank": 3,
+        "selected": true,
+        "featured": true
+      },
+      {
+        "asin": "B0DYD8VT9C",
+        "title": "Renogy Solar Panels 200 Watt N-Type, 24 Volt 200W Solar Panel 16BB 25% High-Efficiency Solar Cell, 24V PV Module Power Charger for Class B Van RV Marine Cabin Roof Home Farm",
+        "price": "$192.99",
+        "rating": 4.6,
+        "reviewCount": 465,
+        "imageUrl": "https://m.media-amazon.com/images/I/71+0UBdtHGL._AC_UY218_.jpg",
+        "affiliateUrl": "https://www.amazon.com/dp/B0DYD8VT9C?tag=veguitas-20",
+        "rank": 4,
+        "selected": true,
+        "featured": true
+      },
+      {
+        "asin": "B08GX19KT9",
+        "title": "SOLPERK Solar Panel Kit 20W 12V, Waterproof Solar Battery Trickle Charger Maintainer + Smart MPPT Controller + Adjustable Mount Bracket for Boat Car RV Motorcycle Marine Automotive",
+        "price": "$34.99",
+        "rating": 4.5,
+        "reviewCount": 455,
+        "imageUrl": "https://m.media-amazon.com/images/I/71hQwnqRj4L._AC_UY218_.jpg",
+        "affiliateUrl": "https://www.amazon.com/dp/B08GX19KT9?tag=veguitas-20",
+        "rank": 5,
+        "selected": true,
+        "featured": true
+      }
+    ]
   }
 ]
