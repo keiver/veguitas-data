@@ -5,9 +5,9 @@
   "status": "draft",
   "categorySlug": "home-kitchen",
   "productCount": 3,
-  "currentVersion": 0,
+  "currentVersion": 1,
   "createdAt": "2026-01-09T20:26:58.594Z",
-  "updatedAt": "2026-01-09T20:27:21.585Z",
+  "updatedAt": "2026-01-09T20:37:17.563Z",
   "scrapedProducts": [
     {
       "asin": "B01KKNFTPC",
