@@ -7,7 +7,7 @@
   "productCount": 5,
   "currentVersion": 2,
   "createdAt": "2026-01-09T21:09:59.533Z",
-  "updatedAt": "2026-01-09T21:33:40.164Z",
+  "updatedAt": "2026-01-09T21:33:41.924Z",
   "scrapedProducts": [
     {
       "asin": "B0CYH13JJK",
@@ -17,7 +17,9 @@
       "reviewCount": 455,
       "imageUrl": "https://m.media-amazon.com/images/I/71Y2w0CVuKL._AC_UY218_.jpg",
       "affiliateUrl": "https://www.amazon.com/dp/B0CYH13JJK?tag=veguitas-20",
-      "rank": 1
+      "rank": 1,
+      "selected": true,
+      "featured": true
     },
     {
       "asin": "B0DSHQM3SM",
@@ -27,7 +29,9 @@
       "reviewCount": 435,
       "imageUrl": "https://m.media-amazon.com/images/I/71GE8VBjpeL._AC_UY218_.jpg",
       "affiliateUrl": "https://www.amazon.com/dp/B0DSHQM3SM?tag=veguitas-20",
-      "rank": 2
+      "rank": 2,
+      "selected": true,
+      "featured": true
     },
     {
       "asin": "B0FXX2X16M",
@@ -37,7 +41,9 @@
       "reviewCount": 0,
       "imageUrl": "https://m.media-amazon.com/images/I/81Ox19589OL._AC_UY218_.jpg",
       "affiliateUrl": "https://www.amazon.com/dp/B0FXX2X16M?tag=veguitas-20",
-      "rank": 3
+      "rank": 3,
+      "selected": true,
+      "featured": true
     },
     {
       "asin": "B0DYD8VT9C",
@@ -47,7 +53,9 @@
       "reviewCount": 465,
       "imageUrl": "https://m.media-amazon.com/images/I/71+0UBdtHGL._AC_UY218_.jpg",
       "affiliateUrl": "https://www.amazon.com/dp/B0DYD8VT9C?tag=veguitas-20",
-      "rank": 4
+      "rank": 4,
+      "selected": true,
+      "featured": true
     },
     {
       "asin": "B08GX19KT9",
@@ -57,7 +65,9 @@
       "reviewCount": 455,
       "imageUrl": "https://m.media-amazon.com/images/I/71hQwnqRj4L._AC_UY218_.jpg",
       "affiliateUrl": "https://www.amazon.com/dp/B08GX19KT9?tag=veguitas-20",
-      "rank": 5
+      "rank": 5,
+      "selected": true,
+      "featured": true
     }
   ]
 }
