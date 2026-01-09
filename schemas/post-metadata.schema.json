@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://veguitas.com/schemas/post-metadata.schema.json",
+  "title": "PostMetadata",
+  "description": "Lightweight post metadata for index listings (used in posts/index.json)",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string",
+      "description": "URL-friendly identifier",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "title": {
+      "type": "string",
+      "description": "Post title",
+      "minLength": 1
+    },
+    "excerpt": {
+      "type": "string",
+      "description": "Short summary for listings",
+      "minLength": 1,
+      "maxLength": 300
+    },
+    "categorySlug": {
+      "type": "string",
+      "description": "Associated category slug",
+      "minLength": 1
+    },
+    "productCount": {
+      "type": "integer",
+      "description": "Number of products in the post",
+      "minimum": 1
+    },
+    "featuredImage": {
+      "type": "string",
+      "description": "Featured image URL",
+      "format": "uri"
+    },
+    "publishedAt": {
+      "type": "string",
+      "description": "ISO 8601 publication timestamp",
+      "format": "date-time"
+    },
+    "updatedAt": {
+      "type": "string",
+      "description": "ISO 8601 last update timestamp",
+      "format": "date-time"
+    }
+  },
+  "required": ["slug", "title", "excerpt", "categorySlug", "productCount", "publishedAt", "updatedAt"]
+}

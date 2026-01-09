@@ -1,0 +1,13 @@
+{
+  "$schema": "../schemas/draft.schema.json",
+  "id": "draft_1704153600000_def456",
+  "title": "Kitchen Essentials for Small Spaces",
+  "slug": "kitchen-essentials-small-spaces",
+  "status": "draft",
+  "categorySlug": "kitchen",
+  "listType": "best-sellers",
+  "productCount": 5,
+  "currentVersion": 0,
+  "createdAt": "2024-01-02T00:00:00.000Z",
+  "updatedAt": "2024-01-02T00:00:00.000Z"
+}

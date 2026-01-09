@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://veguitas.com/schemas/category.schema.json",
+  "title": "Category",
+  "description": "Product category mapped to Amazon browse nodes",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Display name",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-friendly identifier",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "amazonPath": {
+      "type": "string",
+      "description": "Amazon browse path (e.g., '/gp/bestsellers/electronics')",
+      "minLength": 1
+    },
+    "children": {
+      "type": "array",
+      "description": "Nested subcategories",
+      "items": { "$ref": "#" }
+    }
+  },
+  "required": ["name", "slug", "amazonPath"]
+}

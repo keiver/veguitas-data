@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://veguitas.com/schemas/post.schema.json",
+  "title": "Post",
+  "description": "A published product collection post",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string",
+      "description": "URL-friendly identifier",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "title": {
+      "type": "string",
+      "description": "Post title",
+      "minLength": 1
+    },
+    "excerpt": {
+      "type": "string",
+      "description": "Short summary for listings",
+      "minLength": 1,
+      "maxLength": 300
+    },
+    "html": {
+      "type": "string",
+      "description": "Full HTML content"
+    },
+    "categorySlug": {
+      "type": "string",
+      "description": "Associated category slug",
+      "minLength": 1
+    },
+    "products": {
+      "type": "array",
+      "description": "Products featured in this post",
+      "items": { "$ref": "product.schema.json" }
+    },
+    "featuredImage": {
+      "type": "string",
+      "description": "Featured image URL",
+      "format": "uri"
+    },
+    "metaTitle": {
+      "type": "string",
+      "description": "SEO title tag",
+      "minLength": 1,
+      "maxLength": 60
+    },
+    "metaDescription": {
+      "type": "string",
+      "description": "SEO meta description",
+      "minLength": 1,
+      "maxLength": 160
+    },
+    "publishedAt": {
+      "type": "string",
+      "description": "ISO 8601 publication timestamp",
+      "format": "date-time"
+    },
+    "updatedAt": {
+      "type": "string",
+      "description": "ISO 8601 last update timestamp",
+      "format": "date-time"
+    }
+  },
+  "required": ["slug", "title", "excerpt", "html", "categorySlug", "products", "metaTitle", "metaDescription", "publishedAt", "updatedAt"]
+}

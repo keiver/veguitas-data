@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://veguitas.com/schemas/product.schema.json",
+  "title": "Product",
+  "description": "An Amazon product with affiliate information",
+  "type": "object",
+  "properties": {
+    "asin": {
+      "type": "string",
+      "description": "Amazon Standard Identification Number (10 characters)",
+      "pattern": "^[A-Z0-9]{10}$"
+    },
+    "title": {
+      "type": "string",
+      "description": "Product title",
+      "minLength": 1
+    },
+    "price": {
+      "type": "string",
+      "description": "Display price (e.g., '$29.99' or 'N/A')"
+    },
+    "rating": {
+      "type": "number",
+      "description": "Average customer rating",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "reviewCount": {
+      "type": "integer",
+      "description": "Number of customer reviews",
+      "minimum": 0
+    },
+    "imageUrl": {
+      "type": "string",
+      "description": "Product image URL",
+      "format": "uri"
+    },
+    "affiliateUrl": {
+      "type": "string",
+      "description": "Amazon affiliate link",
+      "format": "uri"
+    },
+    "rank": {
+      "type": "integer",
+      "description": "Position in the list",
+      "minimum": 1
+    },
+    "badge": {
+      "type": "string",
+      "description": "Optional badge (e.g., 'Best Seller', 'Amazon's Choice')"
+    },
+    "pros": {
+      "type": "array",
+      "description": "AI-generated product pros",
+      "items": { "type": "string" }
+    },
+    "cons": {
+      "type": "array",
+      "description": "AI-generated product cons",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["asin", "title", "price", "rating", "reviewCount", "imageUrl", "affiliateUrl", "rank"]
+}

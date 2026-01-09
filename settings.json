@@ -1,7 +1,12 @@
 {
+  "$schema": "./schemas/settings.schema.json",
   "siteName": "Veguitas",
   "siteUrl": "https://veguitas.com",
-  "affiliateTag": "",
+  "affiliateTag": "veguitas-20",
   "defaultProductCount": 5,
-  "defaultListType": "best-sellers"
+  "defaultListType": "best-sellers",
+  "socialLinks": {
+    "instagram": "https://instagram.com/veguitas"
+  },
+  "analytics": {}
 }

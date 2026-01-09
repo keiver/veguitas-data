@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://veguitas.com/schemas/settings.schema.json",
+  "title": "Settings",
+  "description": "Site-wide configuration",
+  "type": "object",
+  "properties": {
+    "siteName": {
+      "type": "string",
+      "description": "Display name of the site",
+      "minLength": 1
+    },
+    "siteUrl": {
+      "type": "string",
+      "description": "Base URL of the site",
+      "format": "uri"
+    },
+    "affiliateTag": {
+      "type": "string",
+      "description": "Amazon Associates affiliate tag (e.g., 'mytag-20')"
+    },
+    "defaultProductCount": {
+      "type": "integer",
+      "description": "Default number of products to scrape per list",
+      "minimum": 1,
+      "maximum": 100,
+      "default": 5
+    },
+    "defaultListType": {
+      "type": "string",
+      "description": "Default Amazon list type to scrape",
+      "enum": ["best-sellers", "movers-and-shakers", "new-releases", "most-wished-for"],
+      "default": "best-sellers"
+    },
+    "socialLinks": {
+      "type": "object",
+      "description": "Social media profile links",
+      "properties": {
+        "facebook": { "type": "string", "format": "uri" },
+        "instagram": { "type": "string", "format": "uri" },
+        "twitter": { "type": "string", "format": "uri" }
+      }
+    },
+    "analytics": {
+      "type": "object",
+      "description": "Analytics configuration",
+      "properties": {
+        "googleAnalyticsId": { "type": "string" }
+      }
+    }
+  },
+  "required": ["siteName", "siteUrl", "affiliateTag", "defaultProductCount", "defaultListType"]
+}

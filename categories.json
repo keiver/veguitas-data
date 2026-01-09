@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "$schema": "./schemas/category.schema.json",
+    "name": "Electronics",
+    "slug": "electronics",
+    "amazonPath": "/gp/bestsellers/electronics",
+    "children": [
+      {
+        "name": "Cell Phones",
+        "slug": "cell-phones",
+        "amazonPath": "/gp/bestsellers/wireless"
+      },
+      {
+        "name": "Accessories",
+        "slug": "electronics-accessories",
+        "amazonPath": "/gp/bestsellers/electronics/accessories"
+      }
+    ]
+  },
+  {
+    "name": "Home & Kitchen",
+    "slug": "home-kitchen",
+    "amazonPath": "/gp/bestsellers/home-garden",
+    "children": [
+      {
+        "name": "Kitchen",
+        "slug": "kitchen",
+        "amazonPath": "/gp/bestsellers/kitchen"
+      },
+      {
+        "name": "Bedding",
+        "slug": "bedding",
+        "amazonPath": "/gp/bestsellers/bedding"
+      }
+    ]
+  },
+  {
+    "name": "Health & Personal Care",
+    "slug": "health-personal-care",
+    "amazonPath": "/gp/bestsellers/hpc"
+  },
+  {
+    "name": "Beauty",
+    "slug": "beauty",
+    "amazonPath": "/gp/bestsellers/beauty"
+  },
+  {
+    "name": "Clothing",
+    "slug": "clothing",
+    "amazonPath": "/gp/bestsellers/fashion"
+  }
+]
