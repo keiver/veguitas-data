@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "draft_1767988722820_w1b69k8",
+    "title": "Some Shoes",
+    "slug": "some-shoes",
+    "status": "draft",
+    "categorySlug": "fashion",
+    "productCount": 2,
+    "currentVersion": 0,
+    "createdAt": "2026-01-09T19:58:42.820Z",
+    "updatedAt": "2026-01-09T19:58:42.820Z"
+  }
+]
