@@ -4,9 +4,11 @@
   "siteUrl": "https://veguitas.com",
   "affiliateTag": "veguitas-20",
   "defaultProductCount": 5,
-  "defaultListType": "best-sellers",
+  "defaultListType": "movers-and-shakers",
   "socialLinks": {
-    "instagram": "https://instagram.com/veguitas"
+    "instagram": "https://instagram.com/cerroteweb"
   },
-  "analytics": {}
+  "analytics": {
+    "googleAnalyticsId": "G-QHT51TXSFP"
+  }
 }
