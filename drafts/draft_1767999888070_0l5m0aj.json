@@ -5,9 +5,9 @@
   "status": "draft",
   "categorySlug": "books",
   "productCount": 5,
-  "currentVersion": 0,
+  "currentVersion": 1,
   "createdAt": "2026-01-09T23:04:48.070Z",
-  "updatedAt": "2026-01-09T23:05:47.777Z",
+  "updatedAt": "2026-01-09T23:07:10.542Z",
   "scrapedProducts": [
     {
       "asin": "1401971369",
