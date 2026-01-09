@@ -5,9 +5,9 @@
   "status": "draft",
   "categorySlug": "solar-panels",
   "productCount": 5,
-  "currentVersion": 0,
+  "currentVersion": 1,
   "createdAt": "2026-01-09T21:09:59.533Z",
-  "updatedAt": "2026-01-09T21:10:50.600Z",
+  "updatedAt": "2026-01-09T21:12:28.711Z",
   "scrapedProducts": [
     {
       "asin": "B0CYH13JJK",
