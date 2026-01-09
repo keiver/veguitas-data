@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "slug": "my-knife-selection-for-cutting-banana",
+    "title": "My knife selection for cutting banana",
+    "excerpt": "Top 3 Home & Kitchen products reviewed",
+    "categorySlug": "home-kitchen",
+    "productCount": 3,
+    "publishedAt": "2026-01-09T20:37:27.660Z",
+    "updatedAt": "2026-01-09T20:37:27.660Z"
+  }
+]
