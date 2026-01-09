@@ -53,5 +53,16 @@
     "currentVersion": 4,
     "createdAt": "2026-01-09T21:09:59.533Z",
     "updatedAt": "2026-01-09T22:27:36.488Z"
+  },
+  {
+    "id": "draft_1767999595623_3jn6ruy",
+    "title": "Foundation books to read before the new season, foundation isaac asimov series",
+    "slug": "foundation-books-to-read-before-the-new-season-foundation-isaac-asimov-series",
+    "status": "draft",
+    "categorySlug": "books",
+    "productCount": 5,
+    "currentVersion": 0,
+    "createdAt": "2026-01-09T22:59:55.623Z",
+    "updatedAt": "2026-01-09T22:59:55.623Z"
   }
 ]
