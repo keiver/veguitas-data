@@ -7,5 +7,37 @@
   "productCount": 5,
   "currentVersion": 0,
   "createdAt": "2026-01-09T20:46:41.026Z",
-  "updatedAt": "2026-01-09T20:46:41.026Z"
+  "updatedAt": "2026-01-09T20:46:52.246Z",
+  "scrapedProducts": [
+    {
+      "asin": "B0CYH13JJK",
+      "title": "ECO-WORTHY 400W Solar Panels 4pcs 100 Watt 18V Monocrystalline Solar Panel Module for Off Grid PV Power for Home, Camping, Boat, Shed Farm, RV,12V Battery,2-Pack 2 * 100W",
+      "price": "$176.40",
+      "rating": 4.5,
+      "reviewCount": 455,
+      "imageUrl": "https://m.media-amazon.com/images/I/71Y2w0CVuKL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CYH13JJK?tag=veguitas-20",
+      "rank": 1
+    },
+    {
+      "asin": "B0DSHQM3SM",
+      "title": "200 Watt Solar Panel 18BB, 25% High Efficiency, N-Type 12V 200W Solar Panel, Monocrystalline PV Modules, for Rooftop, RV, Farm, Trailer, Marine, Home Off-Grid System",
+      "price": "$139.99",
+      "rating": 4.3,
+      "reviewCount": 435,
+      "imageUrl": "https://m.media-amazon.com/images/I/71GE8VBjpeL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0DSHQM3SM?tag=veguitas-20",
+      "rank": 3
+    },
+    {
+      "asin": "B0G4XQ6W1Y",
+      "title": "800 WattFlexible Solar Panel,2pcs 400 Watt Monocrystalline Solar Panel kit 10BB High Efficiency Module PV Power for 12-36V Battery Charging Car Battery Camper",
+      "price": "$399.00",
+      "rating": 0,
+      "reviewCount": 0,
+      "imageUrl": "https://m.media-amazon.com/images/I/61-H2ByA-XL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0G4XQ6W1Y?tag=veguitas-20",
+      "rank": 5
+    }
+  ]
 }
