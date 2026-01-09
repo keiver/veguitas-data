@@ -7,5 +7,57 @@
   "productCount": 5,
   "currentVersion": 0,
   "createdAt": "2026-01-09T23:04:48.070Z",
-  "updatedAt": "2026-01-09T23:04:48.070Z"
+  "updatedAt": "2026-01-09T23:04:58.855Z",
+  "scrapedProducts": [
+    {
+      "asin": "B01L8JJ57U",
+      "title": "Hanes Men's Sweatshirt, EcoSmart Fleece Crewneck Sweatshirt, Big & Tall Available, 1 or 2-Pack",
+      "price": "$9.20",
+      "rating": 4.6,
+      "reviewCount": 9135,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61neCjTolQL._AC_UL450_SR450,320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B01L8JJ57U?tag=veguitas-20",
+      "rank": 1
+    },
+    {
+      "asin": "B00JUM2VAQ",
+      "title": "Hanes EcoSmart Hoodie, Midweight Fleece, Pullover Hooded Sweatshirt for Men",
+      "price": "$16.00",
+      "rating": 4.5,
+      "reviewCount": 154731,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61C+zURu0EL._AC_UL450_SR450,320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B00JUM2VAQ?tag=veguitas-20",
+      "rank": 2
+    },
+    {
+      "asin": "B0D8F9WJ1J",
+      "title": "OEAK Womens Deep V Bras Wireless Comfortable Bra Supportive No Underwire Bras Tshirt Push Up Bralettes Plunge Seamless Bra",
+      "price": "$19.98",
+      "rating": 4.1,
+      "reviewCount": 7582,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71c7qol7ycL._AC_UL225_SR225,160_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0D8F9WJ1J?tag=veguitas-20",
+      "rank": 3
+    },
+    {
+      "asin": "B0FG298Z4H",
+      "title": "YEOREO Workout Leggings Womens No Front Seam Straight Leggings 29\"/ 31.5\"/ 33\"/ 35\" High Waist Buttery Eddiy Gym Yoga Pants",
+      "price": "$23.99",
+      "rating": 4.2,
+      "reviewCount": 1336,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51ALuls6oZL._AC_UL225_SR225,160_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FG298Z4H?tag=veguitas-20",
+      "rank": 4
+    },
+    {
+      "asin": "B0CYZM5RSM",
+      "title": "ANRABESS Women Long Sleeve Shirts Rib Knit Slim Fit Tops Basic Tee 2025 Fall Outfits Casual T-Shirt Underscrubs Layer Clothes",
+      "price": "$12.99",
+      "rating": 4.6,
+      "reviewCount": 6811,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71QZExoIbxL._AC_UL225_SR225,160_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CYZM5RSM?tag=veguitas-20",
+      "rank": 5
+    }
+  ]
 }
