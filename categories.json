@@ -98,5 +98,10 @@
     "name": "Camera & Photo",
     "slug": "camera",
     "amazonUrl": "https://www.amazon.com/gp/bestsellers/photo"
+  },
+  {
+    "name": "Solar Panels",
+    "slug": "solar-panels",
+    "amazonUrl": "https://www.amazon.com/Solar-Panels/b?ie=UTF8&node=2236628011"
   }
 ]
