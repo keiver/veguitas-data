@@ -7,5 +7,57 @@
   "productCount": 5,
   "currentVersion": 0,
   "createdAt": "2026-01-11T19:05:29.210Z",
-  "updatedAt": "2026-01-11T19:05:29.210Z"
+  "updatedAt": "2026-01-11T19:06:11.200Z",
+  "scrapedProducts": [
+    {
+      "asin": "B08H46YXYH",
+      "title": "Maybelline Lash Sensational Sky High Waterproof Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying, Buildable Formula, Very Black, 1 Count",
+      "price": "$10.82",
+      "rating": 4.5,
+      "reviewCount": 174183,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71frVkTEtHL._AC_UL600_SR600,400_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B08H46YXYH?tag=veguitas-20",
+      "rank": 1
+    },
+    {
+      "asin": "B0B2RM68G2",
+      "title": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Mask, Pore Minimizing, Elasticity, Plumping Improvement, Korean Skin Care, Gifts for Women | 1.19oz(34g) x 4ea",
+      "price": "$14.90",
+      "rating": 4.5,
+      "reviewCount": 32329,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Qiwz3ZiaL._AC_UL600_SR600,400_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0B2RM68G2?tag=veguitas-20",
+      "rank": 2
+    },
+    {
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad for Exfoliation and Pore Care with 4.5% AHA Lactic Acid, 0.45% BHA Salicylic Acid | Ideal for All, Korean Skin Care, 70 Pads (1 Pack)",
+      "price": "$18.90",
+      "rating": 4.6,
+      "reviewCount": 21369,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B09V7Z4TJG?tag=veguitas-20",
+      "rank": 3
+    },
+    {
+      "asin": "B07MFMWFYL",
+      "title": "MRS. MEYER'S CLEAN DAY Liquid Hand Soap Refill, Rainwater, 33 OZ",
+      "price": "$6.66",
+      "rating": 4.7,
+      "reviewCount": 192834,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81jDqbPAOwL._AC_UL300_SR300,200_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B07MFMWFYL?tag=veguitas-20",
+      "rank": 4
+    },
+    {
+      "asin": "B08KT2Z93D",
+      "title": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, Vanilla Body Lotion, 16 fl oz",
+      "price": "$9.97",
+      "rating": 4.7,
+      "reviewCount": 58912,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51lP01--ejL._AC_UL300_SR300,200_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B08KT2Z93D?tag=veguitas-20",
+      "rank": 5
+    }
+  ]
 }
