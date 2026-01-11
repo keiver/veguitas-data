@@ -5,5 +5,91 @@
   "status": "draft",
   "currentVersion": 1,
   "createdAt": "2026-01-11T19:34:52.724Z",
-  "updatedAt": "2026-01-11T19:38:29.743Z"
+  "updatedAt": "2026-01-11T19:38:31.355Z",
+  "scrapedProducts": [
+    {
+      "asin": "B07CD9NFB4",
+      "title": "Sawyer Products Premium Permethrin Insect Repellent for Clothing, Gear & Tents",
+      "price": "$35.10",
+      "rating": 4.6,
+      "reviewCount": 465,
+      "imageUrl": "https://m.media-amazon.com/images/I/81drsTLaouL._AC_UL320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B07CD9NFB4?tag=veguitas-20",
+      "rank": 1,
+      "selected": true,
+      "featured": true
+    },
+    {
+      "asin": "B00DIXJT1W",
+      "title": "OFF! Deep Woods Travel Size Insect Repellent Aerosol, Dry, Non-Greasy Formula, Bug Spray with Long Lasting Protection from Mosquitoes, 2.5 oz",
+      "price": "$4.24",
+      "rating": 4.6,
+      "reviewCount": 465,
+      "imageUrl": "https://m.media-amazon.com/images/I/611bAmGozfL._AC_UL320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B00DIXJT1W?tag=veguitas-20",
+      "rank": 5,
+      "selected": true,
+      "featured": true
+    },
+    {
+      "asin": "B019ZTXU2G",
+      "title": "OFF! Deep Woods Insect Repellent Aerosol, Dry, Non-Greasy Formula, Bug Spray with Long Lasting Protection from Mosquitoes, 4 Oz, 2 Count",
+      "price": "$15.99",
+      "rating": 4.7,
+      "reviewCount": 475,
+      "imageUrl": "https://m.media-amazon.com/images/I/718Q5uTUwbL._AC_UL320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B019ZTXU2G?tag=veguitas-20",
+      "rank": 7,
+      "selected": true,
+      "featured": true
+    },
+    {
+      "asin": "B0738NCJMH",
+      "title": "Ben's 100 Tick & Insect Repellent - Alcohol-Free DEET Insect Repellent Pump Spray - Offers 10 Hours of Protection for Adults & Children -3.4 Fl Oz (2 Pack)",
+      "price": "$21.98",
+      "rating": 4.5,
+      "reviewCount": 455,
+      "imageUrl": "https://m.media-amazon.com/images/I/71mXT4opT0L._AC_UL320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0738NCJMH?tag=veguitas-20",
+      "rank": 9,
+      "selected": true,
+      "featured": true
+    },
+    {
+      "asin": "B071YWK2TF",
+      "title": "OFF! Deep Woods Sportsmen Insect Repellent Aerosol, Bug Spray Containing 30% Deet, Protects Against Mosquitoes, 6 Oz, 4 Count",
+      "price": "$32.45",
+      "rating": 4.8,
+      "reviewCount": 485,
+      "imageUrl": "https://m.media-amazon.com/images/I/71olWjk30kL._AC_UL320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B071YWK2TF?tag=veguitas-20",
+      "rank": 13,
+      "selected": true,
+      "featured": true
+    },
+    {
+      "asin": "B00IMHLFG6",
+      "title": "Cutter Skinsations Insect Repellent (12 Pack), Repels Mosquitos, Ticks, Gnats, Fleas, 7% DEET, 6 fl Ounce (Pump Spray)",
+      "price": "$50.28",
+      "rating": 4.5,
+      "reviewCount": 455,
+      "imageUrl": "https://m.media-amazon.com/images/I/81-xPSaQZ0L._AC_UL320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B00IMHLFG6?tag=veguitas-20",
+      "rank": 19,
+      "selected": true,
+      "featured": true
+    },
+    {
+      "asin": "B01DLSAN68",
+      "title": "OFF! Family Care Insect & Mosquito Repellent, Bug Spray Containing 15% DEET, Protects Against Mosquitoes, 4 Oz, 2 Count",
+      "price": "$11.59",
+      "rating": 4.6,
+      "reviewCount": 465,
+      "imageUrl": "https://m.media-amazon.com/images/I/71cMJu3JKwL._AC_UL320_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B01DLSAN68?tag=veguitas-20",
+      "rank": 6,
+      "selected": true,
+      "featured": true
+    }
+  ]
 }
