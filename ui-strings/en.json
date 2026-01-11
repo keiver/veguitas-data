@@ -1,0 +1,40 @@
+{
+  "tools": {
+    "shippingCalculator": "Shipping Calculator",
+    "productComparison": "Product Comparison",
+    "currencyConverter": "Currency Converter",
+    "solarSizing": "Solar Sizing Tool",
+    "checklistBuilder": "Checklist Builder"
+  },
+  "common": {
+    "bestValue": "Best Value",
+    "topRated": "Top Rated",
+    "viewOnAmazon": "View on Amazon",
+    "learnMore": "Learn More",
+    "compareProducts": "Compare Products",
+    "products": "products",
+    "published": "Published",
+    "updated": "Updated"
+  },
+  "priceLevel": {
+    "1": "$",
+    "2": "$$",
+    "3": "$$$",
+    "4": "$$$$",
+    "5": "$$$$$"
+  },
+  "priceLevelLabel": {
+    "1": "Budget",
+    "2": "Affordable",
+    "3": "Mid-range",
+    "4": "Premium",
+    "5": "Luxury"
+  },
+  "navigation": {
+    "home": "Home",
+    "switchToSpanish": "Español"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  }
+}

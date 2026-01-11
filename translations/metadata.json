@@ -1,0 +1,10 @@
+{
+  "supportedLocales": ["en", "es"],
+  "defaultLocale": "en",
+  "translations": {
+    "es": {
+      "posts": [],
+      "lastUpdated": null
+    }
+  }
+}

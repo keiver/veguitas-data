@@ -1,0 +1,40 @@
+{
+  "tools": {
+    "shippingCalculator": "Calculadora de Envío",
+    "productComparison": "Comparación de Productos",
+    "currencyConverter": "Convertidor de Moneda",
+    "solarSizing": "Calculadora Solar",
+    "checklistBuilder": "Lista de Verificación"
+  },
+  "common": {
+    "bestValue": "Mejor Valor",
+    "topRated": "Mejor Valorado",
+    "viewOnAmazon": "Ver en Amazon",
+    "learnMore": "Saber Más",
+    "compareProducts": "Comparar Productos",
+    "products": "productos",
+    "published": "Publicado",
+    "updated": "Actualizado"
+  },
+  "priceLevel": {
+    "1": "$",
+    "2": "$$",
+    "3": "$$$",
+    "4": "$$$$",
+    "5": "$$$$$"
+  },
+  "priceLevelLabel": {
+    "1": "Económico",
+    "2": "Accesible",
+    "3": "Gama Media",
+    "4": "Premium",
+    "5": "Lujo"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "switchToEnglish": "English"
+  },
+  "footer": {
+    "copyright": "Todos los derechos reservados."
+  }
+}
