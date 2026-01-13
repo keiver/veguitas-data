@@ -73,8 +73,9 @@
   "status": "draft",
   "currentVersion": 1,
   "createdAt": "2026-01-13T15:23:02.315Z",
-  "updatedAt": "2026-01-13T15:52:45.594Z",
+  "updatedAt": "2026-01-13T15:52:49.653Z",
   "posterFileEn": "best-portable-power-stations-for-cuba-2025-blackout-guide-en.svg",
   "posterFileEs": "best-portable-power-stations-for-cuba-2025-blackout-guide-es.svg",
-  "posterPattern": "sunset"
+  "posterPattern": "sunset",
+  "posterColorVariant": 0
 }
