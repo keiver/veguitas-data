@@ -1,0 +1,226 @@
+{
+  "products": [
+    {
+      "asin": "B0BTDRQTWY",
+      "title": "Quilted Northern Ultra Soft & Strong Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, 5X Stronger*, Premium Soft Toilet Tissue",
+      "price": "$18.97",
+      "rating": 4.7,
+      "reviewCount": 1919,
+      "imageUrl": "https://m.media-amazon.com/images/I/81emF5OHvGL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0BTDRQTWY?tag=veguitas-20",
+      "rank": 1,
+      "priceLevel": 2
+    },
+    {
+      "asin": "B0BMQGFNGF",
+      "title": "Amazon Aware 100% 3-ply Bamboo Toilet Paper, Unscented, 12 Rolls, 350 Sheets per roll, Total 4200 Sheets, Plastic-Free",
+      "price": "$18.25",
+      "rating": 4.6,
+      "reviewCount": 22,
+      "imageUrl": "https://m.media-amazon.com/images/I/61FfxKOgABL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0BMQGFNGF?tag=veguitas-20",
+      "rank": 2,
+      "priceLevel": 2
+    },
+    {
+      "asin": "B0969VYQQG",
+      "title": "Nicky Elite Toilet Paper with Recyclable Paper Packaging, 36 Ultra Soft Mega Rolls = 144 regular rolls",
+      "price": "$31.00",
+      "rating": 4.6,
+      "reviewCount": 465,
+      "imageUrl": "https://m.media-amazon.com/images/I/71a5yQhsoPL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0969VYQQG?tag=veguitas-20",
+      "rank": 3,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0CPYHDQBT",
+      "title": "ecoHiny Premium & Soft Bamboo Toilet Paper | PFAS Free | 6 Mega Rolls, 3 ply & 350 Sheets | Non Toxic, FSC Certified, Septic Safe, BPA Free | Tree Free Toilet Tissue | Plastic Free Packaging",
+      "price": "$20.99",
+      "rating": 4.4,
+      "reviewCount": 55,
+      "imageUrl": "https://m.media-amazon.com/images/I/71QTDfhPApL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CPYHDQBT?tag=veguitas-20",
+      "rank": 4,
+      "priceLevel": 2
+    },
+    {
+      "asin": "B07BGLT25K",
+      "title": "Scott ComfortPlus Toilet Paper, 12 Double Rolls, 231 Sheets per Roll, Septic-Safe, 1-Ply Toilet Tissue",
+      "price": "$5.68",
+      "rating": 4.5,
+      "reviewCount": 1616,
+      "imageUrl": "https://m.media-amazon.com/images/I/81U+bcVo3OL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B07BGLT25K?tag=veguitas-20",
+      "rank": 5,
+      "priceLevel": 1
+    },
+    {
+      "asin": "B008I7TNDW",
+      "title": "Scott Professional 100% Recycled Fiber Standard Roll Bulk Toilet Paper (13217), 2-Ply, Elevated Design, White, Individually Wrapped (80 Rolls of 473 Sheets, 37,840 Sheet Total)",
+      "price": "$49.99",
+      "rating": 4.6,
+      "reviewCount": 465,
+      "imageUrl": "https://m.media-amazon.com/images/I/81W991TEufL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B008I7TNDW?tag=veguitas-20",
+      "rank": 6,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0D863TWCX",
+      "title": "Charmin Ultra Strong Toilet Paper, 6 Mega Rolls = 24 Regular Rolls",
+      "price": "$7.97",
+      "rating": 4.8,
+      "reviewCount": 1010,
+      "imageUrl": "https://m.media-amazon.com/images/I/81-xEp-4ivL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0D863TWCX?tag=veguitas-20",
+      "rank": 7,
+      "priceLevel": 1
+    },
+    {
+      "asin": "B09YKYV9N9",
+      "title": "Charmin Ultra Strong Clean Touch Toilet Paper, 24 Family Mega Rolls = 120 Regular Rolls",
+      "price": "$35.49",
+      "rating": 4.8,
+      "reviewCount": 88,
+      "imageUrl": "https://m.media-amazon.com/images/I/81bxsMCyTIL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B09YKYV9N9?tag=veguitas-20",
+      "rank": 8,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0CM4NVYDR",
+      "title": "Cottonelle Ultra Clean Toilet Paper with Active CleaningRipples Texture, Strong Bath Tissue, 32 Family Mega Rolls = 176 Regular Rolls (8 Packs of 4)",
+      "price": "$29.46",
+      "rating": 4.8,
+      "reviewCount": 77,
+      "imageUrl": "https://m.media-amazon.com/images/I/81jS7flQWlL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CM4NVYDR?tag=veguitas-20",
+      "rank": 9,
+      "priceLevel": 2
+    },
+    {
+      "asin": "B0CM3BSJ95",
+      "title": "Amazon Basics Soft and Strong 2-Ply Toilet Paper, 6 Ultra Rolls = 24 Regular Rolls, Unscented, 340 Sheet (6 Rolls)",
+      "price": "$7.60",
+      "rating": 4.4,
+      "reviewCount": 55,
+      "imageUrl": "https://m.media-amazon.com/images/I/61pp4zaIg5L._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CM3BSJ95?tag=veguitas-20",
+      "rank": 10,
+      "priceLevel": 1
+    },
+    {
+      "asin": "B0CMDLWLXP",
+      "title": "The Cheeky Panda Bamboo Toilet Paper Bulk | 12 Family Sized Rolls with 360 Soft Sheets Each (4320 Sheets) | Super Strong 3 Ply Biodegradable Toilet Paper",
+      "price": "$29.99",
+      "rating": 4.3,
+      "reviewCount": 435,
+      "imageUrl": "https://m.media-amazon.com/images/I/81NmRQ2EtLL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CMDLWLXP?tag=veguitas-20",
+      "rank": 11,
+      "priceLevel": 2
+    },
+    {
+      "asin": "B07QV93RLQ",
+      "title": "Amazon Brand - Presto! 2-Ply Ultra-Strong Toilet Paper, 6 Mega Rolls Toilet Paper = 30 regular rolls, 308 Sheet (Pack of 6), Unscented",
+      "price": "$7.74",
+      "rating": 4.5,
+      "reviewCount": 33,
+      "imageUrl": "https://m.media-amazon.com/images/I/81kKSd-XtCL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B07QV93RLQ?tag=veguitas-20",
+      "rank": 12,
+      "priceLevel": 1
+    },
+    {
+      "asin": "B09NW81TH8",
+      "title": "Angel Soft Toilet Paper, 16 Mega Rolls = 64 Regular Rolls, Soft and Strong Toilet Tissue",
+      "price": "$17.49",
+      "rating": 4.7,
+      "reviewCount": 1010,
+      "imageUrl": "https://m.media-amazon.com/images/I/61pQHkontlL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B09NW81TH8?tag=veguitas-20",
+      "rank": 13,
+      "priceLevel": 2
+    },
+    {
+      "asin": "B0FLFR269F",
+      "title": "Charmin Ultra Soft Toilet Paper, 6 Mega Rolls = 24 Regular Rolls",
+      "price": "$7.97",
+      "rating": 4.8,
+      "reviewCount": 485,
+      "imageUrl": "https://m.media-amazon.com/images/I/61Ry+lOabTL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FLFR269F?tag=veguitas-20",
+      "rank": 14,
+      "priceLevel": 1
+    },
+    {
+      "asin": "B0BTDRQLD3",
+      "title": "Quilted Northern Ultra Plush Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, 3X Thicker*, 3 Ply Soft Toilet Tissue",
+      "price": "$18.69",
+      "rating": 4.8,
+      "reviewCount": 485,
+      "imageUrl": "https://m.media-amazon.com/images/I/815Dhsii2tL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0BTDRQLD3?tag=veguitas-20",
+      "rank": 15,
+      "priceLevel": 2
+    },
+    {
+      "asin": "B0BB3JGBH5",
+      "title": "Quilted Northern Ultra Plush Toilet Paper, 6 Mega Rolls = 24 Regular Rolls, 3X Thicker*, 3 Ply Soft Toilet Tissue",
+      "price": "$6.98",
+      "rating": 4.7,
+      "reviewCount": 475,
+      "imageUrl": "https://m.media-amazon.com/images/I/81c1q4HToRL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0BB3JGBH5?tag=veguitas-20",
+      "rank": 16,
+      "priceLevel": 1
+    },
+    {
+      "asin": "B0D489CTMV",
+      "title": "Scott 1000 Toilet Paper, 18 Rolls, Septic-Safe, 1-Ply Toilet Tissue",
+      "price": "$16.29",
+      "rating": 4.7,
+      "reviewCount": 1111,
+      "imageUrl": "https://m.media-amazon.com/images/I/81EWpYjuwBL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0D489CTMV?tag=veguitas-20",
+      "rank": 17,
+      "priceLevel": 2
+    },
+    {
+      "asin": "B00589DZKU",
+      "title": "Georgia-Pacific Angel Soft Toilet Paper, 16880, Bulk Case of 80 Rolls, 450 Sheets Per Roll, Individually Wrapped, 2-Ply Soft and Strong Toilet Tissue",
+      "price": "$84.95",
+      "rating": 4.5,
+      "reviewCount": 55,
+      "imageUrl": "https://m.media-amazon.com/images/I/71QBdwZWopL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B00589DZKU?tag=veguitas-20",
+      "rank": 18,
+      "priceLevel": 4
+    },
+    {
+      "asin": "B0CGWF2BRF",
+      "title": "Amazon Basics 2-Ply Soft Toilet Paper, 6 Rolls (1 Pack of 6), Equivalent to 37 Regular Rolls, Packaging May Vary",
+      "price": "$6.31",
+      "rating": 4.4,
+      "reviewCount": 33,
+      "imageUrl": "https://m.media-amazon.com/images/I/71Mn+u69RbL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0CGWF2BRF?tag=veguitas-20",
+      "rank": 19,
+      "priceLevel": 1
+    },
+    {
+      "asin": "B0BTDQLMGV",
+      "title": "Quilted Northern Ultra Plush Toilet Paper, 32 Mega Rolls = 128 Regular Rolls, 3X Thicker*, 3 Ply Soft Toilet Tissue",
+      "price": "$25.09",
+      "rating": 4.8,
+      "reviewCount": 485,
+      "imageUrl": "https://m.media-amazon.com/images/I/81YtTakkiyL._AC_UL500_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0BTDQLMGV?tag=veguitas-20",
+      "rank": 20,
+      "priceLevel": 2
+    }
+  ],
+  "searchQuery": "Best toilet paper bulk sustainable and cheap but strong",
+  "cachedAt": "2026-01-13T15:12:05.527Z"
+}
