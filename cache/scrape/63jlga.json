@@ -1,0 +1,226 @@
+{
+  "products": [
+    {
+      "asin": "B0FN7MSY4L",
+      "title": "4.6",
+      "price": "N/A",
+      "rating": 0,
+      "reviewCount": 46,
+      "imageUrl": "https://m.media-amazon.com/images/I/41LPWKTY8CL._AC_SR250,250_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FN7MSY4L?tag=veguitas-20",
+      "rank": 1,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0C5C89QKZ",
+      "title": "4.6",
+      "price": "N/A",
+      "rating": 0,
+      "reviewCount": 46,
+      "imageUrl": "https://m.media-amazon.com/images/I/31Mdcn81faL._AC_SR250,250_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0C5C89QKZ?tag=veguitas-20",
+      "rank": 2,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0FVFKMMG6",
+      "title": "4.7",
+      "price": "N/A",
+      "rating": 0,
+      "reviewCount": 47,
+      "imageUrl": "https://m.media-amazon.com/images/I/31MvryYkupL._AC_SR250,250_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FVFKMMG6?tag=veguitas-20",
+      "rank": 3,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0F1CX6FH4",
+      "title": "240W Portable Power Station 154Wh/48000mAh, 100W USB-C PD(Dual Way) LiFePO4 Battery Power Bank Station, 7 ports Solar Generator with LED and Stand for Camping, Home, Travel(Wall Charger Not Included)",
+      "price": "$59.98",
+      "rating": 4.5,
+      "reviewCount": 455,
+      "imageUrl": "https://m.media-amazon.com/images/I/61u4d43FWhL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0F1CX6FH4?tag=veguitas-20",
+      "rank": 4,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B076S2WGYL",
+      "title": "BESTEK 250W Power Converter 3-Outlet and 4-Port USB Travel Voltage Transformer 220V to 110V with Type G/D/M/AU/US Travel Plug Adapters",
+      "price": "$33.99",
+      "rating": 4.4,
+      "reviewCount": 445,
+      "imageUrl": "https://m.media-amazon.com/images/I/61Y+eitZYDL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B076S2WGYL?tag=veguitas-20",
+      "rank": 5,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0FSZ83QQG",
+      "title": "Portable Power Station 600W(1200W Surge), 299Wh Camping Power Station with 2 AC Outlet, 140W USB-C Fast Charging,7 Ports Mini Solar Generator for Camping Indoor Outdoor Emergency RV (CYBPULTE C601)",
+      "price": "$169.98",
+      "rating": 0,
+      "reviewCount": 0,
+      "imageUrl": "https://m.media-amazon.com/images/I/61vPUzvR34L._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FSZ83QQG?tag=veguitas-20",
+      "rank": 6,
+      "priceLevel": 5
+    },
+    {
+      "asin": "B0FJD7LCY4",
+      "title": "EnginStar Portable Power Station 300W 296Wh Battery Bank with 110V Pure Sine Wave AC Outlet for Outdoors Camping Hunting and Emergency, 80000mAh Backup Battery Power Supply for CPAP",
+      "price": "$123.44",
+      "rating": 4.3,
+      "reviewCount": 435,
+      "imageUrl": "https://m.media-amazon.com/images/I/710xfkfashL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FJD7LCY4?tag=veguitas-20",
+      "rank": 7,
+      "priceLevel": 5
+    },
+    {
+      "asin": "B0D21LHPXN",
+      "title": "Yinleader 2000W Step Up/Down Transformer,Convert 110/120V to 220/240 Volt OR Convert 220V to 110V Voltage Converter with 2US&2 EU outlets [110V US Power Cord Included Only, No 220V Cord]",
+      "price": "$79.99",
+      "rating": 4.5,
+      "reviewCount": 455,
+      "imageUrl": "https://m.media-amazon.com/images/I/71tW59h-MlL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0D21LHPXN?tag=veguitas-20",
+      "rank": 8,
+      "priceLevel": 4
+    },
+    {
+      "asin": "B0D7PPG25F",
+      "title": "Jackery Explorer 1000 v2 Portable Power Station,1070Wh LiFePO4 Battery,1500W AC/100W USB-C Output, 1 Hr Fast Charge, Solar Generator for Camping,Emergency, RV, Off-Grid Living(Solar Panel Optional)Jackery Explorer 1000 v2 Portable Power Station,1070Wh LiFePO4 Battery,1500W AC/100W USB-C Output, 1 Hr Fast Charge, Solar Generator for Camping,Emergency, RV, Off-Grid Living(Solar Panel Optional)",
+      "price": "$398.99",
+      "rating": 4.7,
+      "reviewCount": 47,
+      "imageUrl": "https://m.media-amazon.com/images/I/61JVKysP1nL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=veguitas-20",
+      "rank": 9,
+      "priceLevel": 5
+    },
+    {
+      "asin": "B0DFG2WDQH",
+      "title": "Jackery Explorer 2000 v2 Portable Power Station, 2042Wh LiFePO4 Home Backup Battery, 2200W Solar Generator, USB-C PD 100W Fast Charging for Emergencies, Power Outages, Camping(Solar Panel Optional)Jackery Explorer 2000 v2 Portable Power Station, 2042Wh LiFePO4 Home Backup Battery, 2200W Solar Generator, USB-C PD 100W Fast Charging for Emergencies, Power Outages, Camping(Solar Panel Optional)",
+      "price": "$749.00",
+      "rating": 4.7,
+      "reviewCount": 47,
+      "imageUrl": "https://m.media-amazon.com/images/I/61BnZCjgnQL._AC_SR322,134_CB1169409_QL70_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0DFG2WDQH?tag=veguitas-20",
+      "rank": 10,
+      "priceLevel": 5
+    },
+    {
+      "asin": "B082TMBYR6",
+      "title": "Jackery Portable Power Station Explorer 300, 293Wh Backup Lithium Battery, Solar Generator for Outdoors Camping Travel Hunting Blackout (Solar Panel Optional)Jackery Portable Power Station Explorer 300, 293Wh Backup Lithium Battery, Solar Generator for Outdoors Camping Travel Hunting Blackout (Solar Panel Optional)",
+      "price": "$178.99",
+      "rating": 4.6,
+      "reviewCount": 46,
+      "imageUrl": "https://m.media-amazon.com/images/I/81Fq5thlrnS._AC_SR322,134_CB1169409_QL70_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=veguitas-20",
+      "rank": 11,
+      "priceLevel": 5
+    },
+    {
+      "asin": "B0C1SH2R19",
+      "title": "powkey Portable Power Station with AC Outlet, 65W/110V External Battery Pack 24000mAh/88.8Wh Power Pack, Portable Power Source Supply Backup for Outdoor Tent Camping Home Office",
+      "price": "$59.99",
+      "rating": 4.1,
+      "reviewCount": 415,
+      "imageUrl": "https://m.media-amazon.com/images/I/61R1I4uueKL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0C1SH2R19?tag=veguitas-20",
+      "rank": 12,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0DXFM5DS9",
+      "title": "GRECELL 240W Portable Power Station LiFePO4 Battery, 154Wh Dual Way 100W USB-C PD, Portable Power Bank with Integrated Stand, Solar Generator for Outdoors, Camping, Travel (Wall Charger Not Included)",
+      "price": "$59.99",
+      "rating": 4.5,
+      "reviewCount": 455,
+      "imageUrl": "https://m.media-amazon.com/images/I/61jXkfq7VCL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0DXFM5DS9?tag=veguitas-20",
+      "rank": 13,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B0713XJBG2",
+      "title": "powkey 200W Portable Power Bank with AC Outlet, 146Wh Rechargeable Backup Lithium Battery, 110V Pure Sine Wave AC Outlet for Outdoor RV Trip Travel Home Office Emergency",
+      "price": "$79.99",
+      "rating": 3.9,
+      "reviewCount": 395,
+      "imageUrl": "https://m.media-amazon.com/images/I/61n45a8m3HL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0713XJBG2?tag=veguitas-20",
+      "rank": 14,
+      "priceLevel": 4
+    },
+    {
+      "asin": "B09YLWLFLF",
+      "title": "HOWEASY Portable Power Station,120W(240W Peak) Solar Generator,88Wh Lithium Battery Power with 110V AC Outlet/DC/USB/LED Light for Outdoor Camping Trip Hunting Emergency(Solar Panel Optional)",
+      "price": "$59.98",
+      "rating": 4.4,
+      "reviewCount": 445,
+      "imageUrl": "https://m.media-amazon.com/images/I/61x8jvx2+NL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B09YLWLFLF?tag=veguitas-20",
+      "rank": 15,
+      "priceLevel": 3
+    },
+    {
+      "asin": "B081CB41GG",
+      "title": "LVYUAN Voltage Transformer Converter 2000 Watt Step Up/Down Convert from 110-120 Volt to 220-240 Volt and from 220-240 Volt to 110-120 Volt with 2 US outlets, 2 Universal outlets",
+      "price": "$79.99",
+      "rating": 4.4,
+      "reviewCount": 445,
+      "imageUrl": "https://m.media-amazon.com/images/I/61OlHJA5IPL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B081CB41GG?tag=veguitas-20",
+      "rank": 16,
+      "priceLevel": 4
+    },
+    {
+      "asin": "B0F3CXVQ6J",
+      "title": "Portable Power Station 300W 257wh Lithium Battery Bailibatt Small Portable Generator for Home Use Camping Travel Emergency Hunting Outdoor, Large Power Bank with AC Outlet for Laptop",
+      "price": "$89.99",
+      "rating": 4.5,
+      "reviewCount": 455,
+      "imageUrl": "https://m.media-amazon.com/images/I/71UtkzUVHbL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0F3CXVQ6J?tag=veguitas-20",
+      "rank": 17,
+      "priceLevel": 4
+    },
+    {
+      "asin": "B0FT7VFW4X",
+      "title": "Portable Power Station, 266wh Power Generator 300W Lithium Battery, Power Station for Camping, Home Use, Outdoor, Emergency Backup With 110V Pure Sine Wave AC Outlet",
+      "price": "$104.49",
+      "rating": 4.5,
+      "reviewCount": 455,
+      "imageUrl": "https://m.media-amazon.com/images/I/71gHtn+iYyL._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FT7VFW4X?tag=veguitas-20",
+      "rank": 18,
+      "priceLevel": 5
+    },
+    {
+      "asin": "B0B286D2V7",
+      "title": "Portable Power Station 300W, GRECELL 230.88Wh Solar Generator with 60W USB-C PD Output, 110V Pure Sine Wave AC Outlet Backup Lithium Battery for Outdoors Camping Travel Home Blackout",
+      "price": "$99.99",
+      "rating": 4.4,
+      "reviewCount": 445,
+      "imageUrl": "https://m.media-amazon.com/images/I/61B6Cgcei0L._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0B286D2V7?tag=veguitas-20",
+      "rank": 19,
+      "priceLevel": 4
+    },
+    {
+      "asin": "B0FB8R7N65",
+      "title": "EnginStar Portable Power Station, 150W 155Wh Power Bank with 110V AC Outlet, 6 Outputs External Battery Pack Portable Backup Battery Laptop Charger with LED Light for Home Camping",
+      "price": "$66.48",
+      "rating": 4.3,
+      "reviewCount": 435,
+      "imageUrl": "https://m.media-amazon.com/images/I/715syko0V7L._AC_UY218_.jpg",
+      "affiliateUrl": "https://www.amazon.com/dp/B0FB8R7N65?tag=veguitas-20",
+      "rank": 20,
+      "priceLevel": 4
+    }
+  ],
+  "searchQuery": "portable power station dual voltage 110v 220v",
+  "cachedAt": "2026-01-13T15:21:13.385Z"
+}
